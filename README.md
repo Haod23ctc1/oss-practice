@@ -11,3 +11,4 @@ Bài thực hành phát triển phần mềm mã nguồn mở.
 - Chuẩn bị môi trường phát triển
 - Thực hành Git cơ bản
 - Kết nối repository với GitHub
+Cap nhat README trên GitHub
